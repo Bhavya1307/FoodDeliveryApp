@@ -47,13 +47,18 @@ This project is a complete Full Stack Food Delivery Website built with React JS,
 4. **Run the application:**
     - **Client:**
       ```bash
-      cd client
-      npm start
+      cd frontend
+      npm run dev
       ```
     - **Server:**
       ```bash
-      cd server
-      npm start
+      cd backend
+      npm run server
+      ```
+    - **Admin:**
+      ```bash
+      cd admin
+      npm run dev
       ```
 
 ## Usage
